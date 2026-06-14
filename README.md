@@ -6,7 +6,7 @@ Scan a barcode (or photograph a bare, unlabeled part), let an AI provider identi
 
 No build step. No server. No install. One file, open it in Chrome, go.
 
-> **[▶ Live demo](https://YOUR-USERNAME.github.io/hardwarescan/)** — click *"Or try the demo — no key needed"* on first launch. Sample inventory loads instantly and lookups are simulated locally.
+> **[▶ Live demo]((https://swanamakerdev.github.io/hardwarescan/))** — click *"Or try the demo — no key needed"* on first launch. Sample inventory loads instantly and lookups are simulated locally.
 
 <!-- TODO: replace with a real capture — a 10-second GIF of scan → result → add-to-inventory is worth more than everything below it -->
 ![HardwareScan demo](docs/demo.gif)
