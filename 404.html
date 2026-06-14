@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>HardwareScan</title>
+  <script>
+    // GitHub Pages URLs are case-sensitive. This page catches any case variant
+    // (hardwarescan, Hardwarescan, etc.) and redirects to the canonical URL.
+    var canonical = 'https://swanamakerdev.github.io/HardwareScan';
+    var rest = window.location.pathname.replace(/^\/[Hh]ardware[Ss]can\/?/, '/');
+    window.location.replace(canonical + (rest === '/' ? '/' : rest) + window.location.search + window.location.hash);
+  </script>
+  <noscript>
+    <meta http-equiv="refresh" content="0;url=https://swanamakerdev.github.io/HardwareScan/">
+  </noscript>
+</head>
+<body></body>
+</html>
